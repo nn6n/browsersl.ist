@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@logux/eslint-config": "^55.0.1",
-    "@logux/stylelint-config": "^0.20.0",
+    "@logux/stylelint-config": "^0.21.0",
     "eslint": "^9.21.0",
     "globals": "^16.0.0",
     "nano-staged": "^0.8.0",
